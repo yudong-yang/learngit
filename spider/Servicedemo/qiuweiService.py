@@ -1,6 +1,6 @@
 import time
-from entityItem import QuweiItem as quwei
-from Dao import DBControl as DB
+from spider.entityItem import QuweiItem as quwei
+from spider.Dao import DBControl as DB
 
 #去掉重复元素
 def sublist(lists1 , lists2):
