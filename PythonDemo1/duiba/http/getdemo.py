@@ -8,7 +8,7 @@ import urllib.request
 
 filename = 'test1.html'
 
-req = urllib.request.Request('https://bohaishibei.com/post/category/main/page/3/')
+req = urllib.request.Request('')
 response = urllib.request.urlopen(req)
 the_page = response.read()
 
