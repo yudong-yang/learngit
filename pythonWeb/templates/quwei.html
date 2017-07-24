@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+<!--<![endif]-->
+<head><meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<meta name="applicable-device" content="pc">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<title>趣味集 | 一个有趣的网站</title>
+<link rel='stylesheet' id='ajax-comment-css'  href='http://www.dsuu.cc/wp-content/themes/dsuu/ajax-comment/app.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dsuu-style-css'  href='http://www.dsuu.cc/wp-content/themes/dsuu/style.css' type='text/css' media='all' />
+</head>
+<body>
+<div id="content">
+<h3 class="title"><em>最近更新</em></h3>
+<div class="box_wrap ajz">
+{% for quwei in quweis %}
+<article class="post">
+<div class="postbox pt">
+<div class="v">
+<a href="{{quwei.links}}" title="{{quwei.titles}}" target="_blank">
+<img src="{{quwei.images}}"  width="220" height="317" alt="开心一刻：小肚可以容忍，鸡长就行了" class="lazy"></a>
+</div>
+<div class="exc nr">
+<header>
+<h2><a href="{{quwei.links}}" title="开心一刻：小肚可以容忍，鸡长就行了" rel="bookmark" target="_blank">{{quwei.titles}}</a></h2></header>
+<p>{{quwei.contents}}</p></div>
+</div>
+<footer class="entry-meta"><a href="http://www.dsuu.cc/quwei-author/duanzige" title="由段子哥发布" rel="author">段子哥</a> 发布于 段子<em>|</em><a href="http://www.dsuu.cc/quwei-tag/%e5%bc%80%e5%bf%83%e4%b8%80%e5%88%bb" rel="tag">开心一刻</a><span>{{quwei.times}}</span></footer>
+</article>
+{% endfor %}
+
+</div>
+</div>
+
+</body>
+</html>

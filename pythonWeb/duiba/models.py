@@ -15,3 +15,18 @@ class User(models.Model):
     
     class Meta:
         db_table = 'user'
+
+
+class Quwei(models.Model):
+    titles = models.CharField(max_length=100)
+    contents = models.CharField(max_length=200)
+    links = models.CharField(max_length=100)
+    images = models.CharField(max_length=100)
+    authors = models.CharField(max_length=100)
+    times = models.CharField(max_length=100)
+    class Meta:
+        db_table = 'quwei'
+
+
+
+

@@ -3,7 +3,7 @@ Created on 2017年6月19日
 
 @author: Administrator
 '''
-from duiba import duiba_class
+from pythonWeb.duiba import duiba_class
 
 
 param = duiba_class.consumeparam()

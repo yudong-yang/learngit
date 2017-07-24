@@ -8,7 +8,7 @@ from django.shortcuts import render_to_response
 from django.shortcuts import render
 from django.views.decorators import csrf
 
-from duiba import models
+from pythonWeb.duiba import models
  
 # 数据库操作
 def testdb(request):
@@ -32,6 +32,13 @@ def search(request):
     else:
         message = '你提交了空表单'
     return HttpResponse(message)
+
+
+def listQuwei(request):
+    quweis = models.Quwei.objects.all()
+    context = {'quweis': quweis}
+    context['hello'] = 'Hello World!'
+    return render(request, 'quwei.html', context)
 
 
 # 接收POST请求数据

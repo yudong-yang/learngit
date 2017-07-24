@@ -1,7 +1,7 @@
 
 
 import pymysql
-from Dao.dbconfig import dbconfig
+from spider.Dao.dbconfig import dbconfig
 
 def insertdemo(sql , lists):
     dbc = dbconfig()
