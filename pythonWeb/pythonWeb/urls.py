@@ -16,7 +16,7 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from . import view
-from duiba import testdb,duibademo
+from pythonWeb.duiba import testdb,duibademo
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
@@ -25,6 +25,7 @@ urlpatterns = [
     url(r'^consume$', duibademo.consume),
     url(r'^virtual$', duibademo.virtual),
     url(r'^notify$', duibademo.notify),
+    url(r'^listquwei$', testdb.listQuwei),
     url(r'^dbredirect$', duibademo.autologin),
     url(r'^search-form$', testdb.search_form),
     url(r'^search$', testdb.search),

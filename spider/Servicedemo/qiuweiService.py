@@ -2,7 +2,7 @@ import time
 from spider.entityItem import QuweiItem as quwei
 from spider.Dao import DBControl as DB
 
-#去掉重复元素
+#过滤已存在的项目
 def sublist(lists1 , lists2):
     sublist = []
     for b in lists1:
@@ -19,7 +19,6 @@ def deleteBytitles(titles):
     listtitle = listtitle
     titlesstr = str(listtitle)[1:-1]
     sql = "DELETE FROM quwei where titles in (%s) " % titlesstr
-    print(sql)
     DB.delete(sql)
 
 def findByTitles(titles):
@@ -41,13 +40,11 @@ def batchsave(lists):
     num = DB.insertdemo(sql,lists)
     return num
 now=time.strftime("%M:%S")
-for page in range(1,3):
+for page in range(3,10):
     url = 'http://www.dsuu.cc/quwei-category/joke/page/%d' % page + '/'
     etree = quwei.perseUrl(url)
     lists = quwei.bulidlists(etree)
     num = batchsave(lists)
-    #images = bhsb.getImage(etree)
-   # dowmload = bhsb.downLoadImg(images, page)
     print('插入条数',num)
 end=time.strftime("%M:%S")
 print(now,':',end)
