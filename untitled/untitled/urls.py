@@ -1,4 +1,4 @@
-"""pythonWeb URL Configuration
+"""untitled URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/1.11/topics/http/urls/
@@ -15,19 +15,7 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
-from . import view
-from duiba import testdb,duibademo
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'hello$', view.hello),
-    url(r'^testdb$', testdb.testdb),
-    url(r'^consume$', duibademo.consume),
-    url(r'^virtual$', duibademo.virtual),
-    url(r'^notify$', duibademo.notify),
-    url(r'^listquwei$', testdb.listQuwei),
-    url(r'^dbredirect$', duibademo.autologin),
-    url(r'^search-form$', testdb.search_form),
-    url(r'^search$', testdb.search),
-    url(r'^search-post$', testdb.search_post),
 ]

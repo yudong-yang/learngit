@@ -8,7 +8,7 @@ from django.shortcuts import render_to_response
 from django.shortcuts import render
 from django.views.decorators import csrf
 
-from pythonWeb.duiba import models
+from duiba import models
  
 # 数据库操作
 def testdb(request):

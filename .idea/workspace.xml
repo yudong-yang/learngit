@@ -2,18 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b26ee827-901b-47a1-a8b7-220d69b57686" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/quwei.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/.idea/untitled.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/untitled/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/BSFdemo/Umei.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/BSFdemo/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/BSFdemo/demo1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/BSFdemo/meitu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/Matplot/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/Matplot/americas.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/Matplot/baseMap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/Matplot/demo1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/Matplot/die.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/Matplot/die_visual.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/Matplot/mpl_squares.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/Matplot/random_walk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/Matplot/scatter_squares.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/Numpy/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/Numpy/demo1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/Numpy/demo2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/beautifulsoup/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/beautifulsoup/test1/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/beautifulsoup/test1/demo1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/beautifulsoup/test1/filedemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/beautifulsoup/test1/neihan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/beautifulsoup/test1/neihan.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/pythonWeb/templates/listquwei.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/YuanTong/DBControl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/YuanTong/IP.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/YuanTong/UAList.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/YuanTong/YuanToService.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/YuanTong/YuanTongDeom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/YuanTong/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/YuanTong/baknum.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/YuanTong/copynum.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/YuanTong/insertNum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/YuanTong/number.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/testDemo/YuanTong.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/testDemo/bianma.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/testDemo/content.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learngit/spider/testDemo/number.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learngit/pythonWeb/duiba/models.py" afterPath="$PROJECT_DIR$/learngit/pythonWeb/duiba/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learngit/pythonWeb/duiba/testdb.py" afterPath="$PROJECT_DIR$/learngit/pythonWeb/duiba/testdb.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learngit/pythonWeb/pythonWeb/testJson.py" afterPath="$PROJECT_DIR$/learngit/pythonWeb/pythonWeb/testJson.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learngit/pythonWeb/pythonWeb/urls.py" afterPath="$PROJECT_DIR$/learngit/pythonWeb/pythonWeb/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learngit/spider/Dao/DBControl.py" afterPath="$PROJECT_DIR$/learngit/spider/Dao/DBControl.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learngit/pachong/firstdemo/demo.html" afterPath="$PROJECT_DIR$/learngit/pachong/firstdemo/demo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learngit/spider/Servicedemo/qiuweiService.py" afterPath="$PROJECT_DIR$/learngit/spider/Servicedemo/qiuweiService.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learngit/spider/testDemo/QuweiTest.py" afterPath="$PROJECT_DIR$/learngit/spider/testDemo/QuweiTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pythonWeb/duiba/testdb.py" afterPath="$PROJECT_DIR$/pythonWeb/duiba/testdb.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pythonWeb/pythonWeb/urls.py" afterPath="$PROJECT_DIR$/pythonWeb/pythonWeb/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,23 +76,48 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pythondemo$manager.coverage" NAME="manager Coverage Results" MODIFIED="1500883197949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
-    <SUITE FILE_PATH="coverage/pythondemo$manage.coverage" NAME="manage Coverage Results" MODIFIED="1500625783769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
-    <SUITE FILE_PATH="coverage/pythondemo$QuweiTest.coverage" NAME="QuweiTest Coverage Results" MODIFIED="1500444670497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/testDemo" />
-    <SUITE FILE_PATH="coverage/pythondemo$BhsbService.coverage" NAME="BhsbService Coverage Results" MODIFIED="1500430752740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/bohai" />
-    <SUITE FILE_PATH="coverage/pythondemo$manage__1_.coverage" NAME="manage (1) Coverage Results" MODIFIED="1500633795694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learngit/pythonWeb" />
-    <SUITE FILE_PATH="coverage/pythondemo$QuweiItem.coverage" NAME="QuweiItem Coverage Results" MODIFIED="1500433313076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/quwei" />
+    <SUITE FILE_PATH="coverage/pythondemo$random_walk.coverage" NAME="random_walk Coverage Results" MODIFIED="1511428816967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$Unittests_for_demo2_TestAddition_test_twoPlusTwo.coverage" NAME="Unittests for demo2.TestAddition.test_twoPlusTwo Coverage Results" MODIFIED="1512041176291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learngit/BSFdemo" />
+    <SUITE FILE_PATH="coverage/pythondemo$QuweiTest.coverage" NAME="QuweiTest Coverage Results" MODIFIED="1510884996146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$manage__1_.coverage" NAME="manage (1) Coverage Results" MODIFIED="1501156531064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learngit/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$bianma.coverage" NAME="bianma Coverage Results" MODIFIED="1505276399722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
     <SUITE FILE_PATH="coverage/pythondemo$demo.coverage" NAME="demo Coverage Results" MODIFIED="1499427094172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/bohai" />
     <SUITE FILE_PATH="coverage/pythondemo$Neihan.coverage" NAME="Neihan Coverage Results" MODIFIED="1499250275750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong/firstdemo" />
-    <SUITE FILE_PATH="coverage/pythondemo$main.coverage" NAME="main Coverage Results" MODIFIED="1499999014161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
-    <SUITE FILE_PATH="coverage/pythondemo$getdemo.coverage" NAME="getdemo Coverage Results" MODIFIED="1499744646340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonDemo1/duiba/http" />
+    <SUITE FILE_PATH="coverage/pythondemo$demo1__1_.coverage" NAME="demo1 (1) Coverage Results" MODIFIED="1511852472889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$insertNum.coverage" NAME="insertNum Coverage Results" MODIFIED="1505387120865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$scatter_squares.coverage" NAME="scatter_squares Coverage Results" MODIFIED="1511418277644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
     <SUITE FILE_PATH="coverage/pythondemo$BHSB.coverage" NAME="BHSB Coverage Results" MODIFIED="1500375582555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/bohai" />
-    <SUITE FILE_PATH="coverage/pythondemo$qiuweiService.coverage" NAME="qiuweiService Coverage Results" MODIFIED="1500446653856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learngit/spider/Servicedemo" />
+    <SUITE FILE_PATH="coverage/pythondemo$qiuweiService.coverage" NAME="qiuweiService Coverage Results" MODIFIED="1501139307745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learngit/spider/Servicedemo" />
     <SUITE FILE_PATH="coverage/pythondemo$Unittests_in_testDemo_py.coverage" NAME="Unittests in testDemo.py Coverage Results" MODIFIED="1500442235464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/quwei" />
+    <SUITE FILE_PATH="coverage/pythondemo$mpl_squares.coverage" NAME="mpl_squares Coverage Results" MODIFIED="1511954758523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
     <SUITE FILE_PATH="coverage/pythondemo$testinsert.coverage" NAME="testinsert Coverage Results" MODIFIED="1499251091679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong/firstdemo" />
-    <SUITE FILE_PATH="coverage/pythondemo$Unittests_in_testdemo_py.coverage" NAME="Unittests in testdemo.py Coverage Results" MODIFIED="1500429241032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/bohai" />
-    <SUITE FILE_PATH="coverage/pythondemo$BHSBinsert.coverage" NAME="BHSBinsert Coverage Results" MODIFIED="1499424199283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/bohai" />
+    <SUITE FILE_PATH="coverage/pythondemo$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1511508932868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$testForChrome.coverage" NAME="testForChrome Coverage Results" MODIFIED="1511957662489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$Unittests_in_demo2_py.coverage" NAME="Unittests in demo2.py Coverage Results" MODIFIED="1512041215546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learngit/BSFdemo" />
+    <SUITE FILE_PATH="coverage/pythondemo$Unittests_in_demo1_py.coverage" NAME="Unittests in demo1.py Coverage Results" MODIFIED="1512096335257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learngit/BSFdemo" />
     <SUITE FILE_PATH="coverage/pythondemo$Unittests_in_duiba.coverage" NAME="Unittests in duiba Coverage Results" MODIFIED="1500624811995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learngit/pythonWeb/duiba" />
+    <SUITE FILE_PATH="coverage/pythondemo$YuanToService.coverage" NAME="YuanToService Coverage Results" MODIFIED="1505208383069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$die_visual.coverage" NAME="die_visual Coverage Results" MODIFIED="1511489018096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$manager.coverage" NAME="manager Coverage Results" MODIFIED="1501156649286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$manage.coverage" NAME="manage Coverage Results" MODIFIED="1500625783769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/pythondemo$demo1__2_.coverage" NAME="demo1 (2) Coverage Results" MODIFIED="1511935905876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$BhsbService.coverage" NAME="BhsbService Coverage Results" MODIFIED="1500430752740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/bohai" />
+    <SUITE FILE_PATH="coverage/pythondemo$Umei.coverage" NAME="Umei Coverage Results" MODIFIED="1512040610466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$QuweiItem.coverage" NAME="QuweiItem Coverage Results" MODIFIED="1500433313076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/quwei" />
+    <SUITE FILE_PATH="coverage/pythondemo$main.coverage" NAME="main Coverage Results" MODIFIED="1499999014161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
+    <SUITE FILE_PATH="coverage/pythondemo$americas.coverage" NAME="americas Coverage Results" MODIFIED="1511492031827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$YuanTong.coverage" NAME="YuanTong Coverage Results" MODIFIED="1505200850654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$getdemo.coverage" NAME="getdemo Coverage Results" MODIFIED="1499744646340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonDemo1/duiba/http" />
+    <SUITE FILE_PATH="coverage/pythondemo$YuanTongDeom.coverage" NAME="YuanTongDeom Coverage Results" MODIFIED="1505438980347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$meitu.coverage" NAME="meitu Coverage Results" MODIFIED="1512474385673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$Unittests_in_testdemo_py.coverage" NAME="Unittests in testdemo.py Coverage Results" MODIFIED="1500429241032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/bohai" />
+    <SUITE FILE_PATH="coverage/pythondemo$testForChrome__1_.coverage" NAME="testForChrome (1) Coverage Results" MODIFIED="1512045081613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1512095019004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$BHSBinsert.coverage" NAME="BHSBinsert Coverage Results" MODIFIED="1499424199283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/bohai" />
+    <SUITE FILE_PATH="coverage/pythondemo$webdriver.coverage" NAME="webdriver Coverage Results" MODIFIED="1512094871866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$baseMap.coverage" NAME="baseMap Coverage Results" MODIFIED="1511434149678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$neihan.coverage" NAME="neihan Coverage Results" MODIFIED="1506321977581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
+    <SUITE FILE_PATH="coverage/pythondemo$filedemo.coverage" NAME="filedemo Coverage Results" MODIFIED="1506583568788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonWeb" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -55,56 +133,124 @@
     <favorites_list name="pythondemo" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="meitu.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learngit/BSFdemo/meitu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Umei.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learngit/BSFdemo/Umei.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learngit/BSFdemo/demo1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DD0991571286</find>
+      <find>DD1011459622</find>
+      <find>pyExcelerator</find>
+      <find>Workbook</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\git-repo\pythondemo\learngit</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/learngit" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pachong/firstdemo/Neihan.py" />
-        <option value="$PROJECT_DIR$/pachong/firstdemo/testinsert.py" />
-        <option value="$PROJECT_DIR$/spider/bohai/BHSBinsert.py" />
-        <option value="$PROJECT_DIR$/spider/bohai/demo.py" />
-        <option value="$PROJECT_DIR$/PythonDemo1/duiba/http/getdemo.py" />
-        <option value="$PROJECT_DIR$/tutorial/tutorial/items.py" />
-        <option value="$PROJECT_DIR$/tutorial/main.py" />
-        <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/qiushi_spider.py" />
-        <option value="$PROJECT_DIR$/spider/bohai/images/dbconfig.py" />
-        <option value="$PROJECT_DIR$/spider/bohai/dbconfig.py" />
-        <option value="$PROJECT_DIR$/spider/bohai/BHSB.py" />
-        <option value="$PROJECT_DIR$/spider/bohai/testdemo.py" />
-        <option value="$PROJECT_DIR$/spider/bohai/BhsbDb.py" />
-        <option value="$PROJECT_DIR$/spider/bohai/BhsbService.py" />
-        <option value="$PROJECT_DIR$/spider/quwei/QuweiItem.py" />
-        <option value="$PROJECT_DIR$/spider/quwei/testDemo.py" />
-        <option value="$PROJECT_DIR$/spider/quwei/qiuweiService.py" />
-        <option value="$PROJECT_DIR$/spider/quwei/quweiDB.py" />
-        <option value="$PROJECT_DIR$/spider/entityItem/BhsbService.py" />
-        <option value="$PROJECT_DIR$/spider/testDemo/testDemo.py" />
-        <option value="$PROJECT_DIR$/spider/entityItem/bohaiItem.py" />
-        <option value="$PROJECT_DIR$/spider/Servicedemo/BhsbService.py" />
-        <option value="$PROJECT_DIR$/spider/entityItem/QuweiItem.py" />
         <option value="$PROJECT_DIR$/spider/testDemo/QuweiTest.py" />
         <option value="$PROJECT_DIR$/spider/Dao/dbconfig.py" />
         <option value="$PROJECT_DIR$/spider/Dao/DBControl.py" />
         <option value="$PROJECT_DIR$/spider/Servicedemo/qiuweiService.py" />
         <option value="$PROJECT_DIR$/learngit/spider/Servicedemo/BhsbService.py" />
-        <option value="$PROJECT_DIR$/learngit/spider/testDemo/QuweiTest.py" />
         <option value="$PROJECT_DIR$/learngit/spider/Dao/DBControl.py" />
-        <option value="$PROJECT_DIR$/learngit/spider/Servicedemo/qiuweiService.py" />
         <option value="$PROJECT_DIR$/learngit/pythonWeb/duiba/models.py" />
         <option value="$PROJECT_DIR$/learngit/pythonWeb/pythonWeb/urls.py" />
         <option value="$PROJECT_DIR$/learngit/pythonWeb/duiba/testdb.py" />
         <option value="$PROJECT_DIR$/learngit/pythonWeb/pythonWeb/testJson.py" />
+        <option value="$PROJECT_DIR$/pythonWeb/pythonWeb/urls.py" />
+        <option value="$PROJECT_DIR$/pythonWeb/duiba/testdb.py" />
+        <option value="$PROJECT_DIR$/learngit/pythonWeb/templates/listquwei.html" />
+        <option value="$PROJECT_DIR$/learngit/spider/Servicedemo/qiuweiService.py" />
+        <option value="$PROJECT_DIR$/learngit/pythonWeb/templates/quwei.html" />
+        <option value="$PROJECT_DIR$/learngit/spider/testDemo/number.txt" />
+        <option value="$PROJECT_DIR$/learngit/spider/testDemo/YuanTong.py" />
+        <option value="$PROJECT_DIR$/learngit/spider/testDemo/content.txt" />
+        <option value="$PROJECT_DIR$/learngit/spider/testDemo/bianma.py" />
+        <option value="$PROJECT_DIR$/learngit/spider/YuanTong/YuanToService.py" />
+        <option value="$PROJECT_DIR$/learngit/spider/YuanTong/IP.txt" />
+        <option value="$PROJECT_DIR$/learngit/spider/YuanTong/YuanTongDeom.py" />
+        <option value="$PROJECT_DIR$/learngit/spider/YuanTong/UAList.txt" />
+        <option value="$PROJECT_DIR$/learngit/spider/YuanTong/DBControl.py" />
+        <option value="$PROJECT_DIR$/learngit/spider/YuanTong/insertNum.py" />
+        <option value="$PROJECT_DIR$/learngit/spider/YuanTong/baknum.txt" />
+        <option value="$PROJECT_DIR$/learngit/spider/YuanTong/copynum.txt" />
+        <option value="$PROJECT_DIR$/learngit/spider/YuanTong/number.txt" />
+        <option value="$PROJECT_DIR$/learngit/pachong/firstdemo/demo.html" />
+        <option value="$PROJECT_DIR$/learngit/beautifulsoup/test1/neihan.py" />
+        <option value="$PROJECT_DIR$/learngit/beautifulsoup/test1/neihan.html" />
+        <option value="$PROJECT_DIR$/learngit/beautifulsoup/test1/demo1.py" />
+        <option value="$PROJECT_DIR$/learngit/beautifulsoup/test1/filedemo.py" />
+        <option value="$PROJECT_DIR$/learngit/spider/testDemo/QuweiTest.py" />
+        <option value="$PROJECT_DIR$/learngit/Matplot/scatter_squares.py" />
+        <option value="$PROJECT_DIR$/learngit/Matplot/random_walk.py" />
+        <option value="$PROJECT_DIR$/learngit/Matplot/baseMap.py" />
+        <option value="$PROJECT_DIR$/learngit/Matplot/Die.py" />
+        <option value="$PROJECT_DIR$/learngit/Matplot/die.py" />
+        <option value="$PROJECT_DIR$/learngit/Matplot/die_visual.py" />
+        <option value="$PROJECT_DIR$/learngit/Matplot/americas.py" />
+        <option value="$PROJECT_DIR$/learngit/Matplot/demo1.py" />
+        <option value="$PROJECT_DIR$/learngit/Numpy/demo1.py" />
+        <option value="$PROJECT_DIR$/learngit/Matplot/mpl_squares.py" />
+        <option value="$USER_HOME$/Desktop/testForChrome.py" />
+        <option value="D:/python/site-packages/testForChrome.py" />
+        <option value="$PROJECT_DIR$/learngit/BSFdemo/Umei.py" />
+        <option value="$PROJECT_DIR$/learngit/BSFdemo/demo2.py" />
+        <option value="$PROJECT_DIR$/learngit/Numpy/demo2.py" />
+        <option value="$PROJECT_DIR$/learngit/BSFdemo/demo1.py" />
+        <option value="$PROJECT_DIR$/learngit/BSFdemo/meitu.py" />
       </list>
     </option>
   </component>
@@ -138,8 +284,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -148,16 +294,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pythondemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="learngit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -172,7 +308,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pythonWeb" />
+              <option name="myItemId" value="spider" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -186,11 +322,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pythonWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="pachong" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -204,29 +336,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pythonWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pythonWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pythondemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learngit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pythonWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="duiba" />
+              <option name="myItemId" value="BSFdemo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -237,17 +347,20 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pythonWeb/manage.py" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git-repo\pythondemo\learngit\spider\YuanTong" />
+      <recent name="E:\git-repo\pythondemo\learngit\pythonWeb\templates\bootstrap" />
       <recent name="E:\git-repo\pythondemo\learngit\pythonWeb\templates" />
       <recent name="E:\git-repo\pythondemo\spider\Servicedemo" />
       <recent name="E:\git-repo\pythondemo\spider\quwei" />
-      <recent name="E:\git-repo\pythondemo\spider\bohai" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\git-repo\pythondemo\learngit\spider" />
       <recent name="E:\git-repo\pythondemo\spider\testDemo" />
       <recent name="E:\git-repo\pythondemo\spider\entityItem" />
       <recent name="E:\git-repo\pythondemo\spider\Servicedemo" />
@@ -266,56 +379,78 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.manager">
-    <configuration default="false" name="qiuweiService" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learngit/spider/Servicedemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythondemo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learngit/spider/Servicedemo/qiuweiService.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in duiba" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learngit/pythonWeb/duiba" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythondemo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/learngit/pythonWeb/duiba&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="manage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.meitu">
+    <configuration default="false" name="testForChrome (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="D:\python\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learngit/pythonWeb" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonWeb" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythondemo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learngit/pythonWeb/manage.py" />
+      <option name="SCRIPT_NAME" value="D:/python/site-packages/testForChrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonWeb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythondemo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learngit/Numpy/demo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="webdriver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonWeb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythondemo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/python/Lib/site-packages/selenium/webdriver/firefox/webdriver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="meitu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonWeb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythondemo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learngit/BSFdemo/meitu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -590,17 +725,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.manager" />
-      <item index="1" class="java.lang.String" itemvalue="Python.qiuweiService" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in duiba" />
-      <item index="3" class="java.lang.String" itemvalue="Python.manage (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.testForChrome (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.demo2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.webdriver" />
+      <item index="4" class="java.lang.String" itemvalue="Python.meitu" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.manage (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in duiba" />
-        <item index="2" class="java.lang.String" itemvalue="Python.qiuweiService" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.meitu" />
+        <item index="1" class="java.lang.String" itemvalue="Python.demo2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.webdriver" />
+        <item index="3" class="java.lang.String" itemvalue="Python.testForChrome (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -622,30 +759,37 @@
       <option name="project" value="LOCAL" />
       <updated>1500446365824</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1500883300261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1500883300261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_duiba - 2017.07.21 at 16h 13m 34s.xml">
-      <configuration name="Unittests in duiba" configurationId="tests" />
+    <history-entry file="Unittests_for_demo2_TestAddition_test_twoPlusTwo - 2017.11.30 at 19h 26m 16s.xml">
+      <configuration name="Unittests for demo2.TestAddition.test_twoPlusTwo" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testDemo_py - 2017.07.19 at 11h 22m 39s.xml">
-      <configuration name="Unittests in testDemo.py" configurationId="tests" />
+    <history-entry file="Unittests_in_demo1_py - 2017.12.01 at 10h 39m 02s.xml">
+      <configuration name="Unittests in demo1.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testDemo_py - 2017.07.19 at 11h 25m 33s.xml">
-      <configuration name="Unittests in testDemo.py" configurationId="tests" />
+    <history-entry file="Unittests_in_demo1_py - 2017.12.01 at 10h 42m 13s.xml">
+      <configuration name="Unittests in demo1.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testDemo_py - 2017.07.19 at 11h 34m 29s.xml">
-      <configuration name="Unittests in testDemo.py" configurationId="tests" />
+    <history-entry file="Unittests_in_demo1_py - 2017.12.01 at 10h 44m 44s.xml">
+      <configuration name="Unittests in demo1.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testDemo_py - 2017.07.19 at 11h 42m 30s.xml">
-      <configuration name="Unittests in testDemo.py" configurationId="tests" />
+    <history-entry file="Unittests_in_demo1_py - 2017.12.01 at 10h 45m 35s.xml">
+      <configuration name="Unittests in demo1.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testDemo_py - 2017.07.19 at 11h 43m 12s.xml">
-      <configuration name="Unittests in testDemo.py" configurationId="tests" />
+    <history-entry file="Unittests_in_demo2_py - 2017.11.30 at 19h 26m 39s.xml">
+      <configuration name="Unittests in demo2.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testDemo_py - 2017.07.19 at 11h 45m 44s.xml">
-      <configuration name="Unittests in testDemo.py" configurationId="tests" />
+    <history-entry file="Unittests_in_demo2_py - 2017.11.30 at 19h 26m 55s.xml">
+      <configuration name="Unittests in demo2.py" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_testDemo_py - 2017.07.19 at 11h 47m 43s.xml">
       <configuration name="Unittests in testDemo.py" configurationId="tests" />
@@ -667,26 +811,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14427084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39616615" sideWeight="0.46822917" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31309903" sideWeight="0.5317708" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2702407" sideWeight="0.47058824" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30329672" sideWeight="0.5294118" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1486631" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973261" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -707,146 +851,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pachong/firstdemo/bohaishibei.py">
+    <entry file="file://$PROJECT_DIR$/learngit/spider/testDemo/YuanTong.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1125">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="825">
+          <caret line="35" column="71" lean-forward="true" selection-start-line="35" selection-start-column="71" selection-end-line="35" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/bohai/images/dbconfig.py" />
-    <entry file="file://$PROJECT_DIR$/pythonWeb/manage.py">
+    <entry file="file://$PROJECT_DIR$/learngit/beautifulsoup/test1/demo1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-202">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="800">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/bohai/dbconfig.py" />
-    <entry file="file://D:/python/Lib/unittest/main.py">
+    <entry file="file://$PROJECT_DIR$/learngit/spider/testDemo/bianma.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pachong/firstdemo/Neihan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pachong/firstdemo/getdescrption.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pachong/.pydevproject">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pachong/firstdemo/title.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pachong/firstdemo/testinsert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pachong/firstdemo/qiushibaike.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1641">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pachong/firstdemo/neihanduanzi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/bohai/BhsbDb.py" />
-    <entry file="file://D:/python/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="383" column="0" lean-forward="false" selection-start-line="383" selection-start-column="0" selection-end-line="383" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/entityItem/QuweiItem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="92" column="14" lean-forward="false" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/testDemo/testbohai.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/Servicedemo/BhsbService.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/testDemo/QuweiTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/Dao/dbconfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/Dao/DBControl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/Servicedemo/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/Servicedemo/qiuweiService.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/entityItem/bohaiItem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2700">
-          <caret line="108" column="33" lean-forward="false" selection-start-line="108" selection-start-column="33" selection-end-line="108" selection-end-column="33" />
+        <state relative-caret-position="1000">
+          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -859,212 +881,324 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learngit/spider/testDemo/QuweiTest.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/matplotlib/artist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1894">
+          <caret line="846" column="0" lean-forward="false" selection-start-line="846" selection-start-column="0" selection-end-line="846" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/matplotlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/Matplot/die.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/Matplot/scatter_squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/Matplot/die_visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/搜狗高速下载/pygal_maps_world-1.0.2/setup.py" />
+    <entry file="file://$PROJECT_DIR$/learngit/Matplot/ americas.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pygal/maps/maps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/pygal/maps/maps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pygal/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pygal/maps/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/spider/Servicedemo/qiuweiService.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learngit/spider/Servicedemo/BhsbService.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="222">
+          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learngit/spider/entityItem/QuweiItem.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/spider/entityItem/bohaiItem.py">
+    <entry file="file://$PROJECT_DIR$/learngit/Matplot/baseMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/numpy/core/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-232">
+          <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/Matplot/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/Matplot/random_walk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="38" column="34" lean-forward="false" selection-start-line="37" selection-start-column="42" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/numpy/lib/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="4553" column="4" lean-forward="false" selection-start-line="4553" selection-start-column="4" selection-end-line="4553" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="2763" column="4" lean-forward="false" selection-start-line="2763" selection-start-column="4" selection-end-line="2763" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/matplotlib/contour.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="966" column="0" lean-forward="false" selection-start-line="966" selection-start-column="0" selection-end-line="966" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/spider/Dao/dbconfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/spider/Dao/DBControl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/spider/Servicedemo/qiuweiService.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/untitled/urls.py">
+    <entry file="file://D:/python/Lib/shutil.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/untitled/settings.py">
+    <entry file="file://D:/python/Lib/site-packages/pyExcelerator/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/selenium/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/manage.py">
+    <entry file="file://D:/python/Lib/site-packages/selenium/webdriver/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="500">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/templates/search_form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/templates/hello.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/templates/quwei.html">
+    <entry file="file://D:/python/Lib/site-packages/xlrd/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/testForChrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/pyExcelerator/Workbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/Matplot/mpl_squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/Matplot/americas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/selenium/webdriver/common/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1325">
+          <caret line="140" column="50" lean-forward="false" selection-start-line="140" selection-start-column="41" selection-end-line="140" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1846">
+          <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/site-packages/testForChrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/selenium/webdriver/firefox/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="255" column="11" lean-forward="true" selection-start-line="255" selection-start-column="11" selection-end-line="255" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/BSFdemo/demo2.py" />
+    <entry file="file://$PROJECT_DIR$/learngit/BSFdemo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/spider/YuanTong/DBControl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1183">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/spider/YuanTong/YuanToService.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3083">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/spider/YuanTong/YuanTongDeom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/Numpy/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/duiba/testdb.py">
+    <entry file="file://$PROJECT_DIR$/learngit/Numpy/demo2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding>
-            <element signature="e#54#90#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/pythonWeb/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="300">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/templates/post.html">
+    <entry file="file://$PROJECT_DIR$/learngit/BSFdemo/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learngit/BSFdemo/Umei.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/pythonWeb/view.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding>
-            <element signature="e#53#89#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/pythonWeb/testJson.py">
+    <entry file="file://$PROJECT_DIR$/learngit/BSFdemo/meitu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/pythonWeb/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-525">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/duiba/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/duiba/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/duiba/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/duiba/duiba_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/duiba/duibademo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="90" column="18" lean-forward="false" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/duiba/duibaSDK.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#70#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learngit/pythonWeb/duiba/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state relative-caret-position="450">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
